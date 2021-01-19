@@ -1,0 +1,8 @@
+mode: set
+gositelearn/client/client.go:10.13,14.2 2 0
+gositelearn/client/client.go:25.55,30.16 2 0
+gositelearn/client/client.go:34.2,36.16 2 0
+gositelearn/client/client.go:40.2,40.26 1 0
+gositelearn/client/client.go:30.16,32.3 1 0
+gositelearn/client/client.go:36.16,38.3 1 0
+gositelearn/client/client.go:44.49,52.2 2 1
