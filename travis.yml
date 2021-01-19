@@ -16,6 +16,3 @@ before_install:
 
 script:
   - go test -v ./...
-
-# deploy:
-#   - 
